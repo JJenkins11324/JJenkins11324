@@ -14,9 +14,7 @@
 
 [<img align="left" alt="Joseph | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Joseph | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Joseph | Indeed" width="22px" src="https://github.com/JJenkins11324/JJenkins11324/assets/142867611/e107623c-2630-44d8-ba05-dcbb8ce75c3f" />][indeed]
-[<img align="left" alt="Joseph | Indeed" width="22px" src="" />][indeed]
+
 
 [instagram]: https://www.instagram.com/jenkins5937/
 [linkedin]: https://www.linkedin.com/in/joseph-jenkins-521a49241
-[indeed]: https://profile.indeed.com/p/josephj-8yf8k4d
